@@ -8,7 +8,7 @@ function App() {
     
     <div>
       <h1>Rachit Joshi</h1>
-      <h1>My React App</h1>
+      <h1>My React App .</h1>
     </div>
   )
 }
